@@ -4,13 +4,13 @@ html:root{
 }
 p:first-child{
 	background-color:black;
-	color:white;
+	color:rgb(255, 255, 255);
 }
 p:nth-child(2){
 	color:rgb(255, 255, 0);
 }
 p:last-child{
-	color:red;
+	color:rgb(255, 0, 0);
 }
 li{
 	background-color: gray;
