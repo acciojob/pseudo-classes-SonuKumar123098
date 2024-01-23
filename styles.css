@@ -7,7 +7,7 @@ p:first-child{
 	color:rgb(255, 255, 255);
 }
 p:nth-child(2){
-	color:rgb(255, 255, 0);
+	color:rgb(0, 0, 0);
 }
 p:last-child{
 	color:rgb(255, 0, 0);
