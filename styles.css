@@ -3,8 +3,8 @@ html:root{
 	background-color:rgb(135,206,235);
 }
 p:first-child{
-	background-color:rgb(255, 255, 255);
-	color:rgb(0,0,0);
+	background-color:black;
+	color:rgb(255, 255, 255);
 }
 p:nth-child(2){
 	color:rgb(0, 0, 0);
