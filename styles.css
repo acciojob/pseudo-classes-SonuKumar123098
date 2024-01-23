@@ -3,14 +3,14 @@ html:root{
 	background-color:rgb(135,206,235);
 }
 p:first-child{
-	background-color:black;
-	color:rgb(255, 255, 255);
+	background-color:rgb(255, 255, 255);
+	color:rgb(0,0,0);
 }
 p:nth-child(2){
 	color:rgb(0, 0, 0);
 }
 p:last-child{
-	color:rgb(0, 0, 0);
+	color:rgb(255, 0, 0);
 }
 li{
 	background-color: gray;
